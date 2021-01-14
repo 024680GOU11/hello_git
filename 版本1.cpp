@@ -6,5 +6,5 @@ int main()
 {
 	
 	cout<<"°æ±¾1"; 
-       cout<<"°æ±¾2";
+                cout<<"°æ±¾2";
  } 
